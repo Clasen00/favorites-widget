@@ -1,1 +1,5 @@
-favorites widget
+### Виджет добавления сохраяемого контента в избранное
+
+Виджет позволяет добавлять и удалять ссылки на создаваемый контент и отображает их в виде упорядоченного по категориям списка.
+
+Скорее всего, у Вас возникнут проблемы с namespace, измените его под себя в FavoritesWidget, FavoritesAasetBundle, FavoritesController, UserFavorites, favoritesWidget
