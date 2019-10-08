@@ -2,4 +2,4 @@
 
 Виджет позволяет добавлять и удалять ссылки на создаваемый контент и отображает их в виде упорядоченного по категориям списка.
 
-Скорее всего, у Вас возникнут проблемы с namespace, измените его под себя в FavoritesWidget, FavoritesAasetBundle, FavoritesController, UserFavorites, favoritesWidget
+Скорее всего, у Вас возникнут проблемы с namespace, измените его под себя в [FavoritesWidget](https://github.com/Clasen00/favorites-widget/blob/master/widgets/favorites/FavoritesWidget.php), [FavoritesAasetBundle](https://github.com/Clasen00/favorites-widget/blob/master/widgets/favorites/assets/FavoritesAssetBundle.php), [FavoritesController](https://github.com/Clasen00/favorites-widget/blob/master/favorites/controllers/FavoritesController.php), [UserFavorites](https://github.com/Clasen00/favorites-widget/blob/master/favorites/models/UserFavorites.php), [favorites.php](https://github.com/Clasen00/favorites-widget/blob/master/favorites/favorites.php)
